@@ -175,7 +175,7 @@ a:hover {
 ------------------------------------------------------------------------------*/
 
 .container {
-	position: relative;
+	position: center;
 	width: 1170px;
 	margin: 0 auto;
 }
@@ -226,8 +226,8 @@ a:hover {
 }
 
 #logo {
-	width: 197px;
-	height: 100px;
+	width: 250px;
+	height: 200px;
 	display: block;
 	float: left;
 	cursor: pointer;
