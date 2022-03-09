@@ -150,8 +150,8 @@ textarea {
 
 body {
 	font: 16px/30px Arial, Helvetica, sans-serif;
-	color: #949697;
-	background: #fff;
+	color: white;
+	background: gray;
 	-webkit-text-size-adjust: none;
 	min-width: 320px;
 }
@@ -163,7 +163,7 @@ input, textarea, select, button {
 
 a{
 	text-decoration: none;
-	color: #666668;
+	color: white;
 }
 
 a:hover {
@@ -215,14 +215,14 @@ a:hover {
 
 #header .right-links li {
 	float: left;
-	color: #656567;
+	color: white;
 	font-weight: 500;
 	padding-left: 37px;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 #header .right-links a {
-	color: #656567;
+	color: white;
 }
 
 #logo {
@@ -232,7 +232,7 @@ a:hover {
 	float: left;
 	cursor: pointer;
 	text-indent: -9999em;
-	background: url(../images/logo1mini.jpeg) no-repeat;
+	background: url(../images/logo2Mini.jpeg) no-repeat;
 }
 
 
@@ -241,8 +241,8 @@ a:hover {
 
 #menu {
 	text-align: center;
-	color: #737375;
-	font-size: 14px;
+	color: white;
+	font-size: 20px;
 	font-weight: 500;
 }
 
@@ -253,7 +253,7 @@ a:hover {
 }
 
 #menu a {
-	color: #737375;
+	color: white;
 }
 
 
@@ -416,7 +416,7 @@ a:hover {
 	height: 40px;
 	background-color: #cecece;
 	display: block;
-	color: #656567;
+	color: white;
 	font-family: "Novecentowide";
 	font-size: 12px;
 	font-weight: 500;
@@ -1366,7 +1366,7 @@ h1 {
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
 
 	#logo {
-		background-image: url(../images/logo1mini.jpeg);
+		background-image: url(../images/logo2Mini.jpeg);
 		background-size: cover;
 	}
 
